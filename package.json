@@ -1,7 +1,7 @@
 {
   "name": "autopilot-enrollment-existing-devices",
   "version": "1.0.0",
-  "description": "Web API to receive autopilot enrollment information from existing devices",
+  "description": "Web API to receive autopilot enrollment information from existing devices - MELCC",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
