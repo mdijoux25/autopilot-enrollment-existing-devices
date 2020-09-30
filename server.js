@@ -12,7 +12,7 @@ const winston = require('winston')
 
 // program parameters
 const app = express()
-const port = 8000
+const port = process.env.PORT || 8000
 const logdir = path.join(__dirname, 'log')
 const package = require('./package.json')
 
